@@ -1,12 +1,13 @@
 {
-  "name": "remarkable",
+  "name": "@leofinance/remarkable",
   "description": "Markdown parser, done right. 100% Commonmark support, extensions, syntax plugins, high speed - all in one.",
   "version": "2.0.1",
-  "homepage": "https://github.com/jonschlinkert/remarkable",
+  "homepage": "https://github.com/LeoFinance/remarkable",
   "maintainers": [
     "doowb <brian.woodward@sellside.com>",
     "jonschlinkert <github@sellside.com>",
-    "Bogdan Chadkin <trysound@yandex.ru>"
+    "Bogdan Chadkin <trysound@yandex.ru>",
+    "Shawn Lauzon <shawn.lauzon@gmail.com>"
   ],
   "contributors": [
     "(https://github.com/dohliam)",
@@ -37,9 +38,10 @@
     "Tom Byrer (https://github.com/tomByrer)",
     "Tom MacWright <tom@macwright.org> (http://macwright.org)",
     "Una Ma <maruilian11@cdnjs.com.tw> (https://github.com/maruilian11)",
-    "Vitaly Puzrin <vitaly@rcdesign.ru> (http://gravatar.com/puzrin)"
+    "Vitaly Puzrin <vitaly@rcdesign.ru> (http://gravatar.com/puzrin)",
+    "Shawn Lauzon <shawn.lauzon@gmail.com> (https://github.com/shawnlauzon)"
   ],
-  "repository": "https://github.com/jonschlinkert/remarkable",
+  "repository": "https://github.com/LeoFinance/remarkable",
   "bugs": {
     "url": "https://github.com/jonschlinkert/remarkable/issues"
   },
