@@ -21,7 +21,7 @@ __[Live demo](http://jonschlinkert.github.io/remarkable/demo/)__
 **node.js:**
 
 ```bash
-npm install remarkable --save
+npm install @leofinance/remarkable --save
 ```
 
 **browser (CDN):**
