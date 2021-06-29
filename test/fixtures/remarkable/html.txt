@@ -1,0 +1,13 @@
+.
+<center>
+
+Within div
+</center>
+
+Outside of div
+.
+<center>
+<p>Within div</p>
+</center>
+<p>Outside of div</p>
+.
